@@ -1,0 +1,13 @@
+{
+  "name": "@bhargav.shah/spacify",
+  "version": "2.0.0",
+  "description": "Spacifies!",
+  "license": "MIT",
+  "repository": "bhargavshah/spacify",
+  "main": "index.js",
+  "keywords": [
+    "spacify",
+    "spaces",
+    "strings"
+  ]
+}
